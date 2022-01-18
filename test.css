@@ -1,0 +1,8 @@
+/* body{
+    background-image: url('assets/grass.png');
+    z-index: -2;
+} */
+
+body main div.img2{
+content: url('assets/sky.png');
+}
